@@ -1,4 +1,4 @@
-# Heart-Attack-Prediction- 
+# Heart Attack Prediction
 I've developed a program to leverage scikit learn and the data on heart patients and their vitals
 to predict further cases of heart attacks.
 
