@@ -1,4 +1,5 @@
-# Heart-Attack-Prediction- I've developed a program to leverage scikit learn and the data on heart patients and their vitals
+# Heart-Attack-Prediction- 
+I've developed a program to leverage scikit learn and the data on heart patients and their vitals
 to predict further cases of heart attacks.
 
 The code generates a prompt screen that will ask for the vitals of the new patient,
